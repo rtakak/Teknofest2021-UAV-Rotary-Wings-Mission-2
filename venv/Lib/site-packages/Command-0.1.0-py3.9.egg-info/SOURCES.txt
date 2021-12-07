@@ -1,0 +1,14 @@
+LICENSE
+MANIFEST.in
+README.rst
+setup.cfg
+setup.py
+Command.egg-info/PKG-INFO
+Command.egg-info/SOURCES.txt
+Command.egg-info/dependency_links.txt
+Command.egg-info/requires.txt
+Command.egg-info/top_level.txt
+Command.egg-info/zip-safe
+command/__init__.py
+command/core.py
+command.egg-info/SOURCES.txt
